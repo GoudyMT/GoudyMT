@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GoudyMT
-- 👀 I’m interested in ... Learning more about coding.
-- 🌱 I’m currently learning ... Full Stack, focused on front end development starting soon.
+- 👀 I’m interested in ... AI and ML.
+- 🌱 I’m currently learning ... Data Analysis, focusing on the foundation to further explore into AI and ML.
 - 💞️ I’m looking to collaborate on ... Nothing as of now.
 - 📫 How to reach me ... goudymt@gmail.com
 - ⚡ Fun fact: ...
