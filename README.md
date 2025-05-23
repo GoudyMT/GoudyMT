@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GoudyMT
 - 👀 I’m interested in ... AI and ML.
-- 🌱 I’m currently learning ... Data Analysis, focusing on the foundation to further explore into AI and ML.
-- 💞️ I’m looking to collaborate on ... Nothing as of now.
-- 📫 How to reach me ... goudymt@gmail.com
+- 🌱 I’m currently learning ... Natural Language Processing to develop my AI/ML Engineering Skills.
+- 💞️ I’m looking to collaborate on ... AI/ML Projects. 
+- 📫 How to reach me ... www.linkedin.com/in/goudymt
